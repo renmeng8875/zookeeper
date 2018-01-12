@@ -1,0 +1,14 @@
+*.class
+*.iml
+
+
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.idea
+bin
+*.settings
+
+
